@@ -1,6 +1,6 @@
 ## Applied-AI-Portfolio-Khalida-Bestani
 
-***
+```
 FirstName-LastName-AI-Portfolio/
 ├── README.md                      # Main overview of your portfolio
 │
@@ -42,6 +42,4 @@ FirstName-LastName-AI-Portfolio/
 │       └── results/
 │           ├── detected_images/
 │           └── performance_metrics.png
-│
-└── Presentation/                   # OPTIONAL folder
-    └── Pf_YourName_ITAI2376.pdf   # Only if you choose to create one
+```
