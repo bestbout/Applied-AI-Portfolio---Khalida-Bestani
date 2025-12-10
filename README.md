@@ -24,7 +24,7 @@ through the AI program.
 FirstName-LastName-AI-Portfolio/
 ├── README.md                      # Main overview of your portfolio
 │
-├── MachineLearning-ITAI1371/      # Course folder
+├── Machine Learning-ITAI1371/      # Course folder
 │   ├── README.md                  # Course overview
 │   ├── Project1-Sentiment-Analysis-of-service/
 │   │   ├── README.md              # Project documentation
