@@ -1,6 +1,6 @@
 ## Applied-AI-Portfolio-Khalida-Bestani
 
----
+...
 
 FirstName-LastName-AI-Portfolio/
 ├── README.md                      # Main overview of your portfolio
