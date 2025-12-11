@@ -1,4 +1,4 @@
-# Sentiment Analysis of Movie Reviews
+Sentiment Analysis of Movie Reviews
 The goal of this project is to analyze movie reviews and automatically determine whether the sentiment is **positive** or **negative**. This helps movie studios and streaming platforms understand audience opinions without manually reading thousands of reviews.
 
 ## Approach
