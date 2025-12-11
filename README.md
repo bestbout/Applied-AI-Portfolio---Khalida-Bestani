@@ -38,7 +38,8 @@ FirstName-LastName-AI-Portfolio/
 │   ├── README.md
 │   └── HeistHalters_Theft_Prevention_Project/
 │       ├── README.md
-│       ├── HeistHalters_Theft_Prevention_Project.ipynb
+│       ├── Theft_Prevention_Project
+Colab.ipynb
 │       └── results/
 │           ├── detected_images/
 │           └── performance_metrics.png
