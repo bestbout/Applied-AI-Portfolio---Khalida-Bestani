@@ -28,7 +28,7 @@ FirstName-LastName-AI-Portfolio/
 │   ├── README.md                  # Course overview
 │   ├── Project1-Sentiment-Analysis-of-service/
 │   │   ├── README.md              # Project documentation
-│   │   ├── Sentiment-Analysis-of-service.ipynb   # Your Jupyter notebook  
+│   │   ├── Movie_Review_Sentiment_Classifier.ipynb   # Your Jupyter notebook  
 │   │   └── results/               # Saved outputs, plots, metrics
 │   │       ├── accuracy_plot.png
 │   │       ├── confusion_matrix best model.png
