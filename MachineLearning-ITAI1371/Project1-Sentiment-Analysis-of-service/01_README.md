@@ -36,7 +36,7 @@ The goal of this project is to analyze movie reviews and automatically determine
 - Scikit-learn (Logistic Regression, Random Forest, TF-IDF Vectorizer)
 
 ## How to Run
-1. Open the notebook (Sentiment-Analysis-of-service.ipyn) in **Google Colab** or **Jupyter Notebook**.  
+1. Open the notebook 'Sentiment-Analysis-of-service.ipyn' in **Google Colab** or **Jupyter Notebook**.  
 2. Ensure the **IMDB dataset CSV** is in the notebook directory or uploaded to Colab.  
 3. Run each cell sequentially to see preprocessing, EDA, model training, and evaluation results.  
 4. Outputs and visualizations will be saved in the `results/` folder if the code for saving plots is included.
