@@ -15,7 +15,7 @@ through the AI program.
 ## Featured Courses & Projects
 
 ### Machine Learning (ITAI 1371)
-- [Sentiment Analysis Tool](#) – Achieved 89.28% accuracy using Logistic Regression on the IMDB Movie Review Dataset
+- [Sentiment Analysis Tool](https://github.com/bestbout/Applied-AI-Portfolio---Khalida-Bestani/tree/main) – Achieved 89.28% accuracy using Logistic Regression on the IMDB Movie Review Dataset
 
 ### Computer Vision (ITAI 1378)
 - [Object Detection System](link-to-project) - Real-time detection using YOLO
