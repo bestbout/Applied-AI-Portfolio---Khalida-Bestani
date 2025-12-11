@@ -1,5 +1,5 @@
 # Sentiment Analysis of Movie Reviews
-The goal of this project is to analyze movie reviews and automatically determine whether the sentiment is **positive** or **negative**. This helps movie studios and streaming platforms understand audience opinions without manually reading thousands of reviews.
+The goal of this project is to learn how people feel about the movies they watch by looking at their online reviews. I used the IMDB movie review dataset, which has thousands of real comments from movie fans. Understanding whether people are happy or unhappy with a movie is important because it helps movie studios and streaming platforms see what viewers enjoy, what bothers them, and what they can improve in the future.
 
 ## Approach
 1. **Dataset:** Used the IMDB Movie Review dataset containing 50,000 labeled reviews (25,000 positive, 25,000 negative).  
