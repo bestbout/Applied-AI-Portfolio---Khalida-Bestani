@@ -29,6 +29,7 @@ The goal of this project is to analyze movie reviews and automatically determine
 - The dataset is balanced, allowing the model to learn both classes effectively.  
 
 ## Technologies Used
+
 - Python  
 - Jupyter Notebook / Google Colab  
 - Pandas, NumPy  
