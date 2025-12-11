@@ -18,7 +18,7 @@ through the AI program.
 - [Sentiment Analysis Tool](https://github.com/bestbout/Applied-AI-Portfolio---Khalida-Bestani/tree/main) – Achieved 89.28% accuracy using Logistic Regression on the IMDB Movie Review Dataset
 
 ### Computer Vision (ITAI 1378)
-- [Object Detection System](link-to-project) - Real-time detection using YOLO
+- [Object Detection System](https://github.com/bestbout/Applied-AI-Portfolio---Khalida-Bestani/tree/main/ComputerVision-ITAI1378) - Real-time detection using YOLO
 
 ```
 FirstName-LastName-AI-Portfolio/
