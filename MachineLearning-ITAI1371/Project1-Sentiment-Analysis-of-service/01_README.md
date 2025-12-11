@@ -22,11 +22,6 @@ The goal of this project is to analyze movie reviews and automatically determine
   - Accuracy: 85.09%  
   - Less consistent than Logistic Regression; struggled with sparse text data.  
 
-### Sample Outputs
-- `results/accuracy_plot.png` – Model accuracy comparison  
-- `results/confusion_matrix_best_model.png` – Confusion matrix of the best model  
-- `results/distribution_of_sentiment.txt` – Sentiment distribution overview  
-
 ## Key Findings 
 - Logistic Regression performed better because TF-IDF features are **high-dimensional and sparse**, which suits linear models.  
 - Positive reviews commonly include words like *"great", "love", "amazing"*.  
